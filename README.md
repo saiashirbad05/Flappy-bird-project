@@ -71,7 +71,7 @@ Obtain a free API key at [Google AI Studio](https://aistudio.google.com).
 ## Project Structure
 
 ```
-FLAP.AI/
+FLAP.AI PROJECT FOR PROMPTWARS-VIRTUAL
 ├── index.html              Single-canvas entry point. No framework.
 ├── src/
 │   ├── main.js             Canvas initialisation and application entry
