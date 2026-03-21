@@ -1,4 +1,4 @@
-# FLAP.AI × IoT
+# FLAP.AI
 
 **Human-Adaptive Flappy Bird — Version 2.0**  
 Developed for the GDG × Hack2Skill Hackathon
